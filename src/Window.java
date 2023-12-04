@@ -11,7 +11,6 @@ public class Window {
         frame.setResizable(false);
         frame.setSize(350, 450);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setIconImage(new ImageIcon("resources/555t.png").getImage());
 
 
 
